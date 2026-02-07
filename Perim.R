@@ -7,5 +7,5 @@ LongitudCirculo<-function(r){
 }
 
 PerimetroRectangulo<-function(br,hr){
-  return(2*br+2*hr)
+  return(2*(br+hr)
 }
