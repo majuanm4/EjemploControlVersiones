@@ -36,3 +36,9 @@ hr <- 2
 AreaRectangulo <- br*hr
 ```
 
+# Área trapecio
+```{r}
+bt <- 3
+Bt <- 5
+Ht <- 2
+AreaTrapecio <- ((bt+BT)*Ht)/2
